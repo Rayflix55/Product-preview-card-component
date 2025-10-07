@@ -21,7 +21,7 @@ Hover over the "Add to Cart" button to see the liquid morph effect in action:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/product-card-component.git
+git clone https://github.com/Rayflix55/product-card-component.git
 cd product-card-component
 ```
 
